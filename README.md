@@ -1,2 +1,2 @@
 # Assignment_1
-Task of Assignment 1
+Implementation alternative resources
